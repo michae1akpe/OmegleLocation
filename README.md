@@ -3,7 +3,7 @@ This scripts analyses your network traffic and runs ip through an IP API to get 
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
 pip install tabulate
